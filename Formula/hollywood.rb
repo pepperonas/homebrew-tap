@@ -1,9 +1,9 @@
 class Hollywood < Formula
   desc "Fill your console with Hollywood melodrama technobabble"
   homepage "https://hollywood.celox.io"
-  url "https://github.com/pepperonas/hollywood/releases/download/v1.1.0/hollywood.tar.gz"
-  version "1.1.0"
-  sha256 "a0eb994cb2250534e6ad961be72a45a4cdeb4fd6673216eabf50bc1c66c2a1a9"
+  url "https://github.com/pepperonas/hollywood/releases/download/v1.2.0/hollywood.tar.gz"
+  version "1.2.0"
+  sha256 "67dea41eb7d199027e38c989742b4c98ebab9d4234ed462b5da462d6a3a76098"
   license "Apache-2.0"
 
   depends_on "bat"
