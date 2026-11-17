@@ -1,9 +1,9 @@
 class Wallstreet < Formula
   desc "Fill your console with Wall Street-like news and stats"
   homepage "https://wallstreet.celox.io"
-  url "https://github.com/pepperonas/wallstreet/releases/download/v1.6.0/wallstreet.tar.gz"
-  version "1.6.0"
-  sha256 "2674a391e487104a94e943cae72ff3368c02f036506d53f06fb3b75a09476cdf"
+  url "https://github.com/pepperonas/wallstreet/releases/download/v1.7.0/wallstreet.tar.gz"
+  version "1.7.0"
+  sha256 "017d3a0799aaeb0b34ad97d55aee97f0117e68854704fa29b8822d351b61e223"
   license "Apache-2.0"
 
   depends_on "jp2a"
